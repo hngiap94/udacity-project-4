@@ -1,7 +1,8 @@
-GET_PASSES_THIS_REPO_UDACITY_PLEASE
 <include a CircleCI status badge, here>
 
 ## Project Overview
+
+GET_PASSES_THIS_REPO_UDACITY_PLEASE
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
