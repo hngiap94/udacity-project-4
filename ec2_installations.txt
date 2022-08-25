@@ -1,0 +1,8 @@
+- Git install: https://cloudaffaire.com/how-to-install-git-in-aws-ec2-instance/
+- Docker install: https://www.cyberciti.biz/faq/how-to-install-docker-on-amazon-linux-2/
+- Minikube install: https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-Minikube-install-on-AWS-EC2.php
+- Minikube install(official documentation to get latest url): https://kubernetes.io/vi/docs/tasks/tools/install-minikube/
+- Hadolint install:
+  + sudo wget -O ./hadolint https://github.com/hadolint/hadolint/releases/download/v2.10.0/hadolint-Linux-x86_64
+  + sudo chmod +x ./hadolint
+  + sudo mv ./hadolint /usr/local/bin/hadolint
