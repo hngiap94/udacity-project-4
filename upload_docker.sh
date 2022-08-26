@@ -6,10 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
+dockerpath=hngiap94/udacity-pj4
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login -u hngiap94
 
 # Step 3:
 # Push image to a docker repository
+docker push $dockerpath:latest
